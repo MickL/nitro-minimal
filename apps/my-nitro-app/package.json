@@ -1,5 +1,5 @@
 {
-  "name": "nitro",
+  "name": "my-nitro-app",
   "private": true,
   "scripts": {
     "build": "nitro build",
@@ -8,6 +8,6 @@
     "preview": "node .output/server/index.mjs"
   },
   "dependencies": {
-    "nitro": "npm:nitro-nightly@3.0.0-beta-28969273.f7aa9de6"
+    "nitropack": "^2.10.4"
   }
 }
