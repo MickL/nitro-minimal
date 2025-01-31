@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "frau-dora",
+      "name": "my-project",
       "devDependencies": {
         "@types/bun": "^1.1.16",
         "prettier": "^3.4.1",
